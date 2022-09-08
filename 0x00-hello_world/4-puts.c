@@ -5,8 +5,8 @@
 #include<stdio.h>
 /*
  * main entry point
- * Description: output a string using puts function
- * Return: Always 0 (success)
+ * Description:executes the puts function
+ * Return:Always 0 (success)
  */
 int main(void)
 {
