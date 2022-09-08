@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -Wall $CFILE -o o    
+gcc c -o $CFILE.exe $CFILE.c    
