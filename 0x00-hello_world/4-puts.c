@@ -1,12 +1,12 @@
 /*
-* This is a C program to output a string
+*This is a C program to output a string
 *using puts function
 */
 #include <stdio.h>
-/*main.c*/
+/*function main.c*/
 int main(void)
 {
- puts("Programming is like building a multilingual puzzle");
+ puts"("Programming is like building a multilingual puzzle");
  return (0);	
 }
 	
