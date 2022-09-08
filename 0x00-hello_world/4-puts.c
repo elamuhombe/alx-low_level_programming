@@ -1,5 +1,7 @@
-/*This is a C program to output a string
-/ * using puts function*/
+/*
+* This is a C program to output a string
+*using puts function
+*/
 #include <stdio.h>
 /*main.c*/
 int main(void)
