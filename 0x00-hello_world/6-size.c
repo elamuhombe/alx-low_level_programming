@@ -3,7 +3,7 @@
  *
  */
 #include<stdio.h>
-int main()
+int main(void)
 {
 printf(sizeof(int));
 return(0);
