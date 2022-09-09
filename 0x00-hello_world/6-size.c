@@ -5,6 +5,6 @@
 #include<stdio.h>
 int main()
 {
-printf(sizeof(int));
+printf(sizeof);
 return(0);
 }
