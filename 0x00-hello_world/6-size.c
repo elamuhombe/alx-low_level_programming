@@ -5,6 +5,6 @@
 #include<stdio.h>
 int main()
 {
-printf(sizeof(bytes));
+printf(sizeof(ptr));
 return(0);
 }
