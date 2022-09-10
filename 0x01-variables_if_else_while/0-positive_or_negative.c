@@ -6,7 +6,8 @@
 
 /**
  * main - assign a  random value to the variable n on execution
- * and prints whether the numberstired in the variable n is positive or negative
+ * and prints whether the numberstired in the variable n is
+ * positive or negative
   */
 
 int main(void)
