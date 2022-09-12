@@ -2,13 +2,15 @@
 #include <stdlib.h>
 #include <time.h>
 
-/* more headers goes there */
-
 /**
- * main - assign a  random value to the variable n on execution
+ * main - Entry point
+ *
+ * Description: assign a  random value to the variable n on execution
  * and prints whether the numberstired in the variable n is
  * positive or negative
-  */
+ *
+ * Return: always 0 (Success)
+ */
 
 int main(void)
 
