@@ -21,9 +21,7 @@ int main(void)
 {
 
 		int n;
-		i
-
-
+		
 
 			srand(time(0));
 
