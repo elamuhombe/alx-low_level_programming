@@ -6,9 +6,15 @@
 
 /* more headers goes there */
 
-
-
-/* betty style doc for function main goes there */
+/**
+ * main - Main Entry point
+ *
+ * Description: The program assign a random number to the 
+ * varible n each time it is executed and prints the last digit of
+ * the number stored in the variable n
+ *
+ * Return: Always 0 (Success)
+ */
 
 int main(void)
 
