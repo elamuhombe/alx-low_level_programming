@@ -33,9 +33,9 @@ int main(void)
 						printf("%d and is greater than 5 \n", l); }
 	
 				else if ((n == 0)) {
-						printf("%d and is 0", l); }
+						printf("%d and is 0\n", l); }
 				else if ((n > 0)&& (n < 6)) {
-					printf("%d  and is less than 6 not 0", l);}
+					printf("%d and is less than 6 not 0\n", l);}
 
                                                                
 					return (0);
