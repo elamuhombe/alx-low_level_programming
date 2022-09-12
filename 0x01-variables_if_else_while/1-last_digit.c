@@ -24,12 +24,12 @@ int main(void)
 
 					/* your code goes there */
 				if (n >5) {
-						printf("%d Last digit of",n, "and is greater than 5 \n"); }
+						printf("%d Last digit of",n + "and is greater than 5 \n"); }
 	
 				else if ((n == 0)) {
-						printf("%d Last digit of", n, "and is 0"); }
+						printf("%d Last digit of", n + "and is 0"); }
 				else if ((n > 0)&& (n < 6)) {
-					printf("%d Last digit of " , n "and is less than 6 not 0");}
+					printf("%d Last digit of " , n + "and is less than 6 not 0");}
 
                                                                
 					return (0);
