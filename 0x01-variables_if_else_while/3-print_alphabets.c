@@ -2,7 +2,7 @@
 
 int main(void)
 {
-		char l
+		char l;
 
 		putchar("Lowercase letters:");
 
