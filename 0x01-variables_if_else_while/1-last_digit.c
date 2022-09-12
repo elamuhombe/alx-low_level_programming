@@ -29,7 +29,7 @@ int main(void)
 					/* your code goes there */
 				printf("Last digit of %d" ,n);
 				if (n >5) {
-						printf("and is greater than 5 \n"); }
+						printf("and n%10 is greater than 5 \n"); }
 	
 				else if ((n == 0)) {
 						printf("and is 0"); }
