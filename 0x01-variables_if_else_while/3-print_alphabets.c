@@ -3,6 +3,7 @@
 int main(void)
 {
 		char l;
+
 		printf("Lowercase letters: \n");
 
 		for (l='a'; l <= 'z'; l++)
