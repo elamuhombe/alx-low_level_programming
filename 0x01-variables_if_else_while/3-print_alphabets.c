@@ -1,9 +1,8 @@
 #include <stdio.h>
 
 int main()
-{
-		char l;
-
+{		char l;
+	
 		putchar("Lowercase letters:");
 
 		for (l='a'; l <= 'z'; l++)
