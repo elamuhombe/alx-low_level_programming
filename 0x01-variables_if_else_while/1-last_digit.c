@@ -30,7 +30,7 @@ int main(void)
 		 l = n % 10;         
 			
 				if (n >5) {
-						printf("Last digit of %d is", %n);
+						printf("Last digit of %d is", "%n");
 						printf("%d and is greater than 5 \n", l); }
 	
 				else if ((n ==  0)) {
