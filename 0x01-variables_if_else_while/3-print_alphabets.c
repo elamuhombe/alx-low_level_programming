@@ -4,17 +4,17 @@ int main(void)
 {
 		char l
 
-		printf("Lowercase letters:");
+		putchar("Lowercase letters:");
 
 		for (l='a'; l <= 'z'; l++)
 		{
-			printf("%c ", l);
+			putchar("%c ", l);
 		}
 
 		
 		for (l='A'; l <= 'Z'; l++)
 		{
-			printf("%c ", l);
+			putchar("%c ", l);
 		}
 		return 0;
 }
