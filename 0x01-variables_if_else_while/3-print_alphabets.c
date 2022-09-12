@@ -1,20 +1,16 @@
 #include <stdio.h>
 
-int main()
-{		char l;
+int mai()
+{	
+	char ch;
 	
-		putchar("Lowercase letters:");
 
-		for (l='a'; l <= 'z'; l++)
-		{
-			putchar(l);
-		}
 
-		
-		for (l='A'; l <= 'Z'; l++)
-		{
-			putchar(l);
-		}
-		return 0;
+	for (ch='a'; ch <= 'z'; l++)
+	{
+		putchar(ch);
+	}
+
+	return (0);
 }
 	
