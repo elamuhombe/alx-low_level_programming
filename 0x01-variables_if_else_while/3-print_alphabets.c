@@ -6,7 +6,7 @@ int mai()
 	
 
 
-	for (ch='a'; ch <= 'z'; l++)
+	for (ch='a'; ch <= 'z'; ch++)
 	{
 		putchar(ch);
 	}
