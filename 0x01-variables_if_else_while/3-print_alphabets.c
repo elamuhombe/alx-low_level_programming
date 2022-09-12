@@ -3,14 +3,16 @@
 int main(void)
 {	
 	char ch;
-	char CH;
-
-	for (ch='a',CH='A'; ch <= 'z' && CH <= 'Z'; ch++, CH++)
+	
+	for (ch='a', ch <='z', ch++)
 	{
 		putchar(ch);
-		putchar(CH);
-	}
 
+	}
+	for (ch='A', ch <='Z', ch++)
+	{
+		putchar(ch);
+	}
 	return (0);
 }
 	
