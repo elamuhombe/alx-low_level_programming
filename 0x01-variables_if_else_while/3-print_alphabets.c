@@ -2,9 +2,8 @@
 
 /**
  * main(void) - This is a main function
- *@brief Displays lowercase and uppercase letters
- *@char ch: displays each letter both lower case and uppercase
- *@return 0: successful
+ *that displays lowercase and uppercase letters
+ *and returns 0 when successful
  */
 
 int main(void)
@@ -20,6 +19,6 @@ int main(void)
 		putchar(ch);
 	}
 
-	return 0;
+	return(0);
 }
 	
