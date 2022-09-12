@@ -1,9 +1,11 @@
 #include <stdio.h>
 
 /**
- * main(void) - This is a main function
- *that displays lowercase and uppercase letters
- *and returns 0 when successful
+ * main- Entry point
+ *
+ * Description: prints all lowercase and uppercase letters
+ *
+ * Return: Always 0 (Success)
  */
 
 int main(void)
