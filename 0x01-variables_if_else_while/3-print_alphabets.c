@@ -21,6 +21,6 @@ int main(void)
 		putchar(ch);
 		
 	}
-	putchar (('\n')('\n'));
+	
 	return (0);
 }	
