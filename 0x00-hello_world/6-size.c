@@ -1,9 +1,12 @@
-/*
+#include<stdio.h>
+/**
  * main - Entry point
  *
+ * Description: program that prints the sizes of the various
+ * types of data on the computer it is compiled on
+ *
+ * Return: Always 0 (Success)
  */
-#include<stdio.h>
-
 int main(void)
 {
 
@@ -17,7 +20,7 @@ int main(void)
 
 	float floatType;
 
-	printf("Size of a char: %zu bytes\n", sizeof(charType));
+	printf("Size of a char: %i bytes\n", sizeof(charType));
 	printf("Size of an int %zu bytes\n", sizeof(intType));
 	printf("Size of a long int %ld bytes\n", sizeof(longInt));
 	printf("Size of a long long int %lld bytes\n", sizeof(longlongintType));
