@@ -2,7 +2,7 @@
 /**
  * main - Entry point
  *
- * Description: program that prrints lower case 
+ * Description:program that prrints lower case 
  * alphabets in reverse order
  * followed by a new line
  *
