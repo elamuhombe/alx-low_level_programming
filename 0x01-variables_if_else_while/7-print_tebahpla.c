@@ -14,7 +14,7 @@ int main(void)
 
 	for(ch = 'a'; ch <= 'z'; ch --)
 	{
-		printf("%c",i ch);
+		printf("%c", ch);
 	}
 	return (0);
 }
