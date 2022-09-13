@@ -15,8 +15,8 @@ int main (void)
 
 	for (ch= 'a'; ch<= 'z'; ch++)
 	{
-		char *ch = ch+5;
-		char *ch = ch+17;
-		putchar(ch);
+		char *e = ch+5+17;
+		
+		putchar(*e);
 	}
 
