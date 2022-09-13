@@ -11,19 +11,8 @@
  */
 int main (void)
 {
-	char ch;
-
-	for (ch= 'a'; ch<= 'e'; ch++)
-	{
-		char *e = ch+5;
-		
-		putchar(e);
-	}
-	for (ch= 'f'; ch<= 'z'; ch++)
-	{
-		char *q=ch+12;
-		putchar(q);
-	
-	}
+	char ch= [a-z];
+	char *e= ch+1;
+	putchar(e);
 	return (0);
 
