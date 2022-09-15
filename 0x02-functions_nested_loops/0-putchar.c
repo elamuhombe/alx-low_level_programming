@@ -7,6 +7,6 @@
  */
 int _putchar(char _putchar)
 {
-	putchar(_putcahar);
+	putchar('_putcahar');
 	return 0;
 }
