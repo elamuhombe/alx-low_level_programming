@@ -5,8 +5,8 @@
  *
  * Return: Always 0 (Success)
  */
-int _putchar(char _putchar)
-{
-	putchar('_putcahar');
+int _putchar(char c
+{	c='_putchar';
+	putchar(c);
 	return 0;
 }
